@@ -1,5 +1,5 @@
-  #SQL Rockbuster Video Rental
-<p>A presentation was created for the Management Board to answer business questions. The technical team received the Data dictionary and SQLs used to answer key questions..</p>
+  <h1> Rockbuster Video Rental<h1>
+    <p>A presentation was created for the Management Board to answer business questions. The technical team received the Data dictionary and SQLs used to answer key questions..</p>
 <p>Introduction</p>
 <p>Rockbuster Stealth LLC is a movie rental company that previously operated stores globally. However, with the rise of streaming services like Netflix and Amazon Prime, it has faced strong competition, prompting the management team to develop an online video rental service using their current movie licenses. This strategy is aimed at keeping the company competitive in the market.</p>
 <p>Key Questions &amp; Objectives</p>
